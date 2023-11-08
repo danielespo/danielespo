@@ -1,10 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working on optimization problems on alternative hardware at UC Santa Barbara
+- 🔭 I’m currently working on solving optimization problems using alternative computer hardware at UC Santa Barbara
 - 💬 Ask me about quantum computing and superconducting circuits
 - 🌱 I’m currently learning semiconductor device processing and advanced topics in computer systems
 - 🤔 I’m looking for help with new ways of solving LIP problems fast
 - 📫 How to reach me: DM me on LinkedIn to connect!
-- ⚡ Fun fact: I love archery, fencing, and grappling!
+- ⚡ Fun fact: I love archery, grappling, and fencing!
 
 
 ## Leetcode Stats as of 11/05/2023
