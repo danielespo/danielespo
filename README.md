@@ -6,9 +6,6 @@
 - 📫 How to reach me: DM me on LinkedIn to connect!
 - ⚡ Fun fact: I love archery, grappling, and fencing!
 
-
-## Leetcode Stats as of 11/05/2023
-![Leetcode Stats](https://leetcard.jacoblin.cool/danielespo)
 <!--
 **danielespo/danielespo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
