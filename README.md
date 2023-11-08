@@ -3,7 +3,7 @@
 - 💬 Ask me about quantum computing and superconducting circuits
 - 🌱 I’m currently learning semiconductor device processing and advanced topics in computer systems
 - 🤔 I’m looking for help with new ways of solving LIP problems fast
-- 📫 How to reach me: DM me on GitHub or LinkedIn to connect!
+- 📫 How to reach me: DM me on LinkedIn to connect!
 - ⚡ Fun fact: I love archery, fencing, and grappling!
 
 
