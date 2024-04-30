@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Daniel Espinosa Gonzalez
 - 🔭 I’m currently working on solving optimization problems using alternative computer hardware at UC Santa Barbara
 - 💬 Ask me about SAT and superconducting circuits
-- 🌱 I’m currently learning FPGA programming and advanced topics in computer systems
+- 🌱 I’m currently learning FPGA programming and First Order Logic Solvers
 - 🤔 I’m looking for help with categorical machine learning
 - 📫 How to reach me: DM me on LinkedIn to connect!
 - ⚡ Fun fact: I love archery, grappling, and fencing!
