@@ -3,8 +3,8 @@
 - 💬 Ask me about SAT and superconducting circuits
 - 🌱 I’m currently learning Verilog and Backtracking solvers
 - 🤔 I’m looking for help with category theory
-- 📫 How to reach me: LinkedIn msg
-- ⚡ Fun fact: I love archery, grappling, and fencing.
+- 📫 How to reach me: LinkedIn message
+- ⚡ Fun fact: I love archery, grappling, and fencing
 
 <!--
 **danielespo/danielespo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
