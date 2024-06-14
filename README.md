@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Daniel Espinosa Gonzalez
-- 🔭 I’m currently working on solving optimization problems using alternative computer hardware at UC Santa Barbara
+- 🔭 I’m currently working on hardware accelerators for SAT at UC Santa Barbara
 - 💬 Ask me about SAT and superconducting circuits
-- 🌱 I’m currently learning FPGA programming and First Order Logic Solvers
-- 🤔 I’m looking for help with categorical machine learning
-- 📫 How to reach me: DM me on LinkedIn to connect!
-- ⚡ Fun fact: I love archery, grappling, and fencing!
+- 🌱 I’m currently learning Verilog and Backtracking solvers
+- 🤔 I’m looking for help with category theory
+- 📫 How to reach me: LinkedIn msg
+- ⚡ Fun fact: I love archery, grappling, and fencing.
 
 <!--
 **danielespo/danielespo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
