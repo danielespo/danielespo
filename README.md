@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Daniel Espinosa Gonzalez
 - 🔭 I’m currently working on hardware accelerators for SAT at UC Santa Barbara
 - 💬 Ask me about SAT and superconducting circuits
-- 🌱 I’m currently learning Verilog and Backtracking solvers
-- 🤔 I’m looking for help with category theory
+- 🌱 I’m currently learning Verilog and Scheme
+- 🤔 I’m looking for help with category theory for CS
 - 📫 How to reach me: LinkedIn message
 - ⚡ Fun fact: I love archery, grappling, and fencing
 
