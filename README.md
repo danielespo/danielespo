@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Daniel Espinosa Gonzalez
 - 🔭 I’m currently working on hardware accelerators for SAT at UC Santa Barbara
 - 💬 Ask me about SAT and superconducting circuits
-- 🌱 I’m currently learning HLS
+- 🌱 I’m currently learning HDL and HLS for building application specific hardware
 - 🤔 I’m looking for help with digital design
 - 📫 How to reach me: LinkedIn message
 - ⚡ Fun fact: I love archery, grappling, and fencing
