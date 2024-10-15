@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning HDL and HLS for building application specific hardware
 - 🤔 I’m looking for help with digital design and Cadence
 - 📫 How to reach me: LinkedIn or Twitter
-- ⚡ Fun fact: I am a gold medallist in archery
+- ⚡ Fun fact: I am an archery gold medallist
 
 <!--
 **danielespo/danielespo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
