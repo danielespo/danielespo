@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Daniel Espinosa Gonzalez
 - 🔭 I’m currently working on hardware accelerators for SAT at UC Santa Barbara
-- 💬 Ask me about reasoning and physics
-- 🌱 I’m currently learning HDL and HLS for building application specific hardware
-- 🤔 I’m looking for help with digital design and Cadence
+- 💬 Ask me about reasoning and logic for combinatorial problem solving
+- 🌱 I’m currently learning Cadence and CMOS concepts
+- 🤔 I’m looking for help with quantum error correction
 - 📫 How to reach me: LinkedIn or Twitter
 - ⚡ Fun fact: I am an archery gold medallist
 
