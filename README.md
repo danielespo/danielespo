@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on hardware accelerators for boolean satisfiability at UCSB
 - 💬 Ask me about reasoning and logic, hard combinatorial problems
 - 🌱 I’m currently learning VLSI and parallel processing
-- 🤔 I’m looking for help with information theory and applied DSP
+- 🤔 I’m looking for help with applied DSP and discrete structures for parallel processing
 - 📫 How to reach me: LinkedIn or Email
 - ⚡ Fun fact: I am an archery gold medallist and love jiu-jitsu
 
