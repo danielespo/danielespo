@@ -6,6 +6,7 @@
 - 📫 How to reach me: LinkedIn or carrier pigeon
 - ⚡ Fun fact: I am an archery gold medallist and love jiu-jitsu
 
+https://danluu.com/why-hardware-development-is-hard/
 <!--
 **danielespo/danielespo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
