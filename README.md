@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Daniel Espinosa Gonzalez
-- 🔭 I’m currently working on hardware accelerators for boolean satisfiability at UCSB
-- 💬 Ask me about reasoning and logic, hard combinatorial problems
-- 🌱 I’m currently learning VLSI and parallel processing
-- 🤔 I’m looking for help with applied DSP and discrete structures for parallel processing
-- 📫 How to reach me: LinkedIn or Email
+- 🔭 I’m currently working on system architecture at PsiQuantum
+- 💬 Ask me about reasoning, logic, VLSI and FPGA
+- 🌱 I’m currently learning Haskell and OCaml to make a "rust-analyzer/expect-test" for cocotb/verilator 
+- 🤔 I’m looking for help with functional programming and creating C bindings in haskell/OCaml
+- 📫 How to reach me: LinkedIn or carrier pigeon
 - ⚡ Fun fact: I am an archery gold medallist and love jiu-jitsu
 
 <!--
