@@ -4,7 +4,7 @@
 - 🌱 I’m currently making a full custom CPU with integrated graphics [GPU, too] by hand in Virtuoso
 - 🤔 I’m looking for help with functional programming and low latency computing
 - 📫 How to reach me: https://www.linkedin.com/in/daniel-a-espinosa
-- ⚡ Fun fact: I am an archery gold medallist and love jiu-jitsu, puzzles, and magic the gathering
+- ⚡ Fun fact: I am an archery gold medallist and love jiu-jitsu, tennis, and puzzles !
 
 https://danluu.com/why-hardware-development-is-hard/
 <!--
