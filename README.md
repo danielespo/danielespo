@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Daniel Espinosa Gonzalez
 - 🔭 I’m currently working on system architecture at PsiQuantum
 - 💬 Ask me about reasoning, logic, mixed-signal VLSI and FPGA
-- 🌱 I’m currently making a full custom CPU with integrated graphics [GPU, too] by hand in Virtuoso
-- 🤔 I’m looking for help with functional programming and low latency computing
+- 🌱 I’m current getting really good at tennis and guitar
+- 🤔 I’m looking for help with lowest latency computing
 - 📫 How to reach me: https://www.linkedin.com/in/daniel-a-espinosa
 - ⚡ Fun fact: I am an archery gold medallist and love jiu-jitsu, tennis, and puzzles !
 
